@@ -11,11 +11,6 @@
 
 ---
 
-### 🧠 Problem-Solving & Algorithmic Thinking  
-✔️ **Strong foundation** in **Data Structures & Algorithms**  
-
----
-
 ### 🔬 Currently Working On  
 💡 **YouTube Analysis** – Data trends, sentiment analysis & engagement metrics  
 📊 **Personal Finance Tracker** – Interactive financial visualization & insights  
@@ -29,14 +24,6 @@
 🔹 **Web & Backend:** Django, Flask, Chart.js  
 🔹 **Data Science:** Pandas, NumPy, Matplotlib, Seaborn, TextBlob  
 🔹 **Machine Learning:** Scikit-learn, Reinforcement Learning (Exploring)   
-
----
-
-### 📈 My GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vharshithaa&show_icons=true&theme=radical" height="150" />
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vharshithaa&theme=radical" height="150" /> -->
-</p>
 
 ---
 
