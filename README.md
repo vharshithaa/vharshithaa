@@ -7,7 +7,7 @@
 🔹 **BTech 3rd Year | Data Science**  
 🔹 Passionate about **Data Analytics, Web Development, and Machine Learning**  
 🔹 A problem-solver who enjoys tackling complex challenges with **efficient algorithms**  
-🔹 Cloud Computing enthusiast, helping build a strong tech culture in my college's **Cloud Community Club**  
+🔹 Cloud enthusiast 
 
 ---
 
